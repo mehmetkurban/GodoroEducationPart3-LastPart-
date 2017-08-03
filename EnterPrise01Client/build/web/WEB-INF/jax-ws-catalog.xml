@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/EnterPrise01/AdderService?xsd=1" uri="wsdl/localhost_8080/EnterPrise01/AdderService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/EnterPrise01/AdderService?WSDL" uri="wsdl/localhost_8080/EnterPrise01/AdderService.wsdl"/>
+    <system systemId="http://192.168.1.8:8080/Enterprise01/FriendService?WSDL" uri="wsdl/192.168.1.8_8080/Enterprise01/FriendService.wsdl"/>
+    <system systemId="http://192.168.1.8:8080/Enterprise01/FriendService?xsd=1" uri="wsdl/192.168.1.8_8080/Enterprise01/FriendService.xsd_1.xsd"/>
+</catalog>
